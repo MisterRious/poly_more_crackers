@@ -1,0 +1,12 @@
+# Polymarket Trading Bot Dependencies
+
+# Polymarket Python SDK
+py-clob-client>=0.21.0
+
+# Web3 and Ethereum libraries
+web3>=6.0.0
+eth-account>=0.9.0
+
+# Utility libraries
+python-dotenv>=1.0.0
+requests>=2.31.0
